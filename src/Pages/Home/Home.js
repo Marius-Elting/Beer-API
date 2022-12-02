@@ -40,7 +40,8 @@ function Home() {
                     Bier, Bier, Bier, Bier, Bier
                     Bi-Bi-Bi-Bier, Bier, Bier, Bier
                     Ich hoff auf dem Mars finden sie–BIER</p>
-            </article>        </section>
+            </article>
+        </section>
     );
 }
 

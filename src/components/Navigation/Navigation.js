@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Navigation() {
     return (
         <nav>
-            <Link to="./">ICON</Link>
+            <Link to="/">ICON</Link>
         </nav>
     );
 }
